@@ -1,2 +1,3 @@
 Hello! github
-My name is smt
+
+Add line 3
